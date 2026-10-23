@@ -530,3 +530,5 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Stephen Akinyemi](https://github.com/appcypher) has waived all copyright and related or neighboring rights to this work.
+
+- [m2mfreedom/freedom-m2m-mcp-server](https://github.com/m2mfreedom/freedom-m2m-mcp-server) - Autonomous HTTP 402 (L402 Bitcoin Lightning & x402 Base/Solana USDC) M2M API Gateway & Task Clearinghouse with 7 deterministic tools (Stealth Web Unlocker, 9-in-1 CAPTCHA Solver, Structured Table Extractor, Python AST Sandbox, Clean Scraper, Persistent Memory Vault, 5-Sat BTC Oracle) and 14 Verified Worker Nodes (`https://m2mfreedom.com`).
